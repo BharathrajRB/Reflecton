@@ -11,7 +11,7 @@ public class MainClass {
                 if (method.getName().startsWith("commonMethod")) {
                     System.out.println(clazz.getSimpleName() + " - " + method.getName());
                 }
-            }
+            } 
         }
     }
 }
